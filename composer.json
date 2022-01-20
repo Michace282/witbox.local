@@ -13,14 +13,19 @@
     "require": {
         "php": "^7.3||^8.0",
         "composer-runtime-api": "^2.1",
+        "aimeos/ai-cms-grapesjs": "2021.10.*",
+        "aimeos/aimeos-laravel": "2021.10.*",
+        "artincms/laravel_faq": "dev-master",
+        "bpocallaghan/faq": "^1.0",
+        "bpocallaghan/sluggable": "^1.3",
+        "detosphere-ltd/laravel-faqs": "^1.0",
+        "fruitcake/laravel-cors": "^2.0",
+        "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.54",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.0",
-        "guzzlehttp/guzzle": "^7.0.1",
-        "fruitcake/laravel-cors": "^2.0",
-        "aimeos/aimeos-laravel": "2021.10.*",
-        "aimeos/ai-cms-grapesjs": "2021.10.*"
+        "torann/hashids": "^3.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",

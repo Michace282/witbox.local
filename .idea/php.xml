@@ -137,6 +137,15 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
       <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/artincms/laravel_faq" />
+      <path value="$PROJECT_DIR$/vendor/artincms/laravel_tagable" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/bpocallaghan/faq" />
+      <path value="$PROJECT_DIR$/vendor/detosphere-ltd/laravel-faqs" />
+      <path value="$PROJECT_DIR$/vendor/alhaji-aki/laravel-uuid" />
+      <path value="$PROJECT_DIR$/vendor/bpocallaghan/sluggable" />
+      <path value="$PROJECT_DIR$/vendor/hashids/hashids" />
+      <path value="$PROJECT_DIR$/vendor/torann/hashids" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

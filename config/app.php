@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'shop_multilocale' => env('SHOP_MULTILOCALE', false),
+    'shop_multilocale' => env('SHOP_MULTILOCALE', true),
 
     /*
     |--------------------------------------------------------------------------
@@ -195,6 +195,7 @@ return [
         /*
          * Laravel Framework Service Providers...
          */
+        Torann\Hashids\HashidsServiceProvider::class,
         Illuminate\Auth\AuthServiceProvider::class,
         Illuminate\Broadcasting\BroadcastServiceProvider::class,
         Illuminate\Bus\BusServiceProvider::class,
@@ -229,7 +230,7 @@ return [
         App\Providers\AuthServiceProvider::class,
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        App\Providers\RouteServiceProvider::class
 
     ],
 
@@ -245,7 +246,7 @@ return [
     */
 
     'aliases' => [
-
+        'Hashids' => Torann\Hashids\Facade\Hashids::class,
         'App' => Illuminate\Support\Facades\App::class,
         'Arr' => Illuminate\Support\Arr::class,
         'Artisan' => Illuminate\Support\Facades\Artisan::class,
