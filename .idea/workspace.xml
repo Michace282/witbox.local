@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3452c022-a5f3-4c8d-b06c-f93b0984b4b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/FAQ/CategoriesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/FAQ/FAQsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/FAQ/OrderController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Website/FAQController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/CourseSpikers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/FAQ.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/FaqCategory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/OrderSpiker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/ProductMaterialAdditional.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/ProductMaterialTopicsCourse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Traits/LaraveTagablesSystem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/hashids.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/laravel_faq.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/laravel_tagable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2017_07_08_094112_create_faq_categories_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2017_07_08_102625_create_faqs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2018_08_16_093556_create_faq_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2018_08_19_083506_create_tag_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2022_01_15_042351_create_product_material_additional.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2022_01_15_043635_create_product_topics_course.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2022_01_15_044134_update_mshop_product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2022_01_20_124449_course_spikers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/seeds/FAQTableSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/css/faq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/fonts/icon/fonts/h_faq.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/fonts/icon/fonts/h_faq.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/fonts/icon/fonts/h_faq.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/fonts/icon/fonts/h_faq.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/assets/fonts/icon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/components/show_item.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/components/show_item_4.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/laravel_faq.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_faq/laravel_faq4.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/js/components/laravel_tagable/laravel_tagable_system.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/custom,js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/laravel_faq/backend/helper/inline_js.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/laravel_faq/backend/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/laravel_faq/backend/layouts/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/laravel_faq/frontend/faq.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/website/faq/faq.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="3452c022-a5f3-4c8d-b06c-f93b0984b4b7" name="Changes" comment="new version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,8 +236,16 @@
       <workItem from="1642579269518" duration="20469000" />
       <workItem from="1642654369128" duration="37000" />
       <workItem from="1642654464512" duration="9000" />
-      <workItem from="1642654670565" duration="25729000" />
+      <workItem from="1642654670565" duration="26569000" />
     </task>
+    <task id="LOCAL-00001" summary="new version">
+      <created>1642698064097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642698064098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,5 +276,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
 </project>
