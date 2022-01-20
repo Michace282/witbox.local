@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3452c022-a5f3-4c8d-b06c-f93b0984b4b7" name="Changes" comment="new version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2018_08_19_083506_create_tag_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2018_08_19_083506_create_tag_table.php" afterDir="false" />
-    </list>
+    <list default="true" id="3452c022-a5f3-4c8d-b06c-f93b0984b4b7" name="Changes" comment="new version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,7 +234,7 @@
       <workItem from="1642579269518" duration="20469000" />
       <workItem from="1642654369128" duration="37000" />
       <workItem from="1642654464512" duration="9000" />
-      <workItem from="1642654670565" duration="27849000" />
+      <workItem from="1642654670565" duration="28154000" />
     </task>
     <task id="LOCAL-00001" summary="new version">
       <created>1642698064097</created>
@@ -253,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642701976425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new version">
+      <created>1642706092152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642706092152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
